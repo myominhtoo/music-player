@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "songName" : "Anti-Hero",
+        "singer" : "Taylor Swift",
+        "songUrl" : "anti-hero.mp3",
+        "imageUrl" : "anti-hero.jpg"
+    },
+    {
+        "id" : 2,
+        "songName" : "Ghost",
+        "singer" : "Justin Beiber",
+        "songUrl" : "ghost.mp3",
+        "imageUrl" : "ghost.jpg"
+    },
+    {
+        "id" : 3,
+        "songName" : "Holy",
+        "singer" : "Justin Beiber",
+        "songUrl" : "holy.mp3",
+        "imageUrl" : "holy.jpg"
+    },
+    {
+        "id" : 4,
+        "songName" : "Take Me To Your Heart",
+        "singer" : "Michael Learns",
+        "songUrl" : "takemetoyourheart.mp3",
+        "imageUrl" : "takemetoyourheart.jpg"
+    },
+    {
+        "id" : 5,
+        "songName" : "Night Changes",
+        "singer" : "One Direction",
+        "songUrl" : "nightchanges.mp3",
+        "imageUrl" : "nightchanges.jpg"
+    },
+    {
+        "id" : 6,
+        "songName" : "Blue Night",
+        "singer" : "Michael Learns",
+        "songUrl" : "bluenight.mp3",
+        "imageUrl" : "bluenight.jpg"
+    },
+    {
+        "id" : 7,
+        "songName" : "Fool Again",
+        "singer" : "Weslife",
+        "songUrl" : "foolagain.mp3",
+        "imageUrl" : "foolagain.jpg"
+    },
+    {
+        "id" : 8,
+        "songName" : "Thinking Out Loud",
+        "singer" : "Ed Sheeran",
+        "songUrl" : "thinkingoutloud.mp3",
+        "imageUrl" : "thinkingoutloud.jpg"
+    },
+    {
+        "id" : 9,
+        "songName" : "Girls Like You",
+        "singer" : "Maroon 5",
+        "songUrl" : "girlslikeyou.mp3",
+        "imageUrl" : "girlslikeyou.jpg"
+    },
+    {
+        "id" : 10,
+        "songName" : "See You Again",
+        "singer" : "Charlie Puth",
+        "songUrl" : "seeyouagain.mp3",
+        "imageUrl" : "seeyouagain.jpg"
+    }
+]
